@@ -26,36 +26,23 @@
 </p>
 
 ---
-
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hitheshkumarh&show_icons=true&theme=tokyonight" alt="github stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitheshkumarh&layout=compact&theme=tokyonight" alt="top languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hiteshkumarrh&show_icons=true&theme=tokyonight" alt="github stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiteshkumarrh&layout=compact&theme=tokyonight" alt="top languages" height="180"/>
 </p>
 
 ---
 
 ### 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hitheshkumarh&theme=tokyonight" alt="streak stats" />
+  <img src="https://streak-stats.demolab.com?user=hiteshkumarrh&theme=tokyonight" alt="streak stats" />
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hitheshkumarh&theme=dracula&no-frame=true&row=1&column=6" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hiteshkumarrh&theme=dracula&no-frame=true&row=1&column=6" alt="trophies" />
 </p>
 
----
-
-### ✍️ Latest Blog Posts  
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
-### 👁️ Visitor Count
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hitheshkumarh&label=Profile%20Views&color=blue&style=flat" alt="visitor count" />
-</p>
