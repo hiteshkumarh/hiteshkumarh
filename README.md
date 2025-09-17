@@ -26,23 +26,3 @@
 </p>
 
 ---
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hiteshkumarrh&show_icons=true&theme=tokyonight" alt="github stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiteshkumarrh&layout=compact&theme=tokyonight" alt="top languages" height="180"/>
-</p>
-
----
-
-### 🔥 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=hiteshkumarrh&theme=tokyonight" alt="streak stats" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hiteshkumarrh&theme=dracula&no-frame=true&row=1&column=6" alt="trophies" />
-</p>
-
