@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hithesh Kumar H</h1>
-<h3 align="center">🚀 Passionate Data Analyst & Aspiring Data Scientist from India</h3>
+
 
 ---
 
