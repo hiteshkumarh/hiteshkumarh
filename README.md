@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hithesh Kumar H</h1>
 
 <p align="center">
-💻 Software Developer | 🤖 AI + Backend | ⚙️ DevOps (Docker, CI/CD)
+💻 Software Developer | ⚙️ DevOps (Docker, CI/CD)
 </p>
 
 ---
@@ -83,13 +83,7 @@
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hiteshkumarh&theme=tokyo-night"/>
 </p>
-
----
-
-## 🎯 Current Focus
-- Backend system design & scalability  
-- Advanced DevOps & distributed systems  
-- Preparing for software engineering roles  
+ 
 
 ---
 
