@@ -67,24 +67,6 @@ Aspiring 💻 Software Developer
 - 🧩 Solved **120+ problems** on LeetCode  
 - 🔥 50 Days Coding Badge  
 - 📜 Certifications in Python, SQL, ML  
-
----
-
-## 📈 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hiteshkumarh&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hiteshkumarh&theme=tokyonight"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiteshkumarh&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 📊 Contribution Graph
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hiteshkumarh&theme=tokyo-night"/>
-</p>
- 
-
 ---
 
 ⭐ If you find my work useful, consider giving a star!
