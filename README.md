@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hithesh Kumar H</h1>
 
 <p align="center">
-💻 Software Developer | ⚙️ DevOps (Docker, CI/CD)
+Aspiring 💻 Software Developer 
 </p>
 
 ---
