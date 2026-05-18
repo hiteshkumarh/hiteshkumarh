@@ -22,7 +22,7 @@ Aspiring 💻 Software Developer
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=hiteshkumarh&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hiteshkumarh&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=hiteshkumarh&theme=radical&no-bg=false&margin-w=4)
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Hithesh2003) 
