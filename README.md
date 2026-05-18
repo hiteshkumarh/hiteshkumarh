@@ -26,12 +26,12 @@ Aspiring 💻 Software Developer
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python | SQL | JavaScript | HTML | CSS  
-**Backend:** Node.js | Express.js | FastAPI  
+**Languages:** Python | SQL  | HTML | CSS  
+**Backend:** Flask | FastAPI  
 **Frontend:** React.js | Streamlit  
 **Databases:** MySQL | MongoDB | SQLite  
 **ML & Data:** Scikit-learn | Jupyter | Power BI  
-**DevOps & Tools:** Docker | Kubernetes | Jenkins | Git | GitHub  
+**DevOps & Tools:** Docker | Git | GitHub  
 
 ---
 
@@ -46,7 +46,6 @@ Aspiring 💻 Software Developer
 - Built scalable APIs using **FastAPI**
 - Generated structured JSON reports
 
-📸 *Add screenshots or demo GIF here*
 
 ---
 
@@ -57,9 +56,9 @@ Aspiring 💻 Software Developer
 - Parsed **PCAP files & reconstructed protocols**
 - Identified apps via **TLS SNI + HTTP headers**
 - Implemented **flow tracking (5-tuple)**
-- Built visualization dashboard using **Node.js**
+- Built visualization dashboard using **flask**
 
-📸 *Add screenshots or demo here*
+
 
 ---
 
