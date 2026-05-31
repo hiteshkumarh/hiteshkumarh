@@ -21,9 +21,6 @@ Aspiring 💻 Software Developer
 ![](https://streak-stats.demolab.com/?user=hiteshkumarh&theme=default&hide_border=true)<br/>
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hiteshkumarh&theme=radical&no-bg=false&margin-w=4)
-
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Hithesh2003) 
 
