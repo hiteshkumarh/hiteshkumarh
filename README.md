@@ -8,7 +8,7 @@ Aspiring 💻 Software Developer
 ⭐ If you find my work useful, consider giving a star!
 
 # 💫 About Me:
-🚀 About Me<br><br>- 🎓 Computer Science Graduate (CGPA: 8.1)<br>- 💻 Software Developer  focused on Python, FastAPI, and Flask<br>- 🧠 Strong understanding of Data Structures, DBMS, OS, and Computer Networks<br>- 🔍 Built projects in Deep Packet Inspection, AI Code Review, and Secure Payment Systems<br>- ⚡ Solved 120+ problems on LeetCode (DSA + SQL)<br>- 🛠️ Currently learning scalable backend systems, APIs, and system design<br>- 🌐 Interested in Backend Engineering, AI Systems, and Network Security<br>- 🤝 Looking to collaborate on Python, FastAPI, and AI-based projects<br>- 📍 Karnataka, India
+🚀 About Me<br><br>- 🎓 Computer Science Graduate (CGPA: 8.1)<br>- 💻 Software Developer  focused on Python, FastAPI, and Flask<br>- 🧠 Strong understanding of Data Structures, DBMS, OS, and Computer Networks<br>- 🔍 Built projects in Deep Packet Inspection, AI Code Review, and Secure Payment Systems<br>- ⚡ Solved 120+ problems on LeetCode (DSA + SQL)<br>- 🛠️ Currently learning scalable backend systems and APIs<br>- 🌐 Interested in Backend Engineering, AI Systems, and Network Security<br>- 🤝 Looking to collaborate on Python, FastAPI, and AI-based projects<br>- 📍 Karnataka, India
 
 
 ## 🌐 Socials:
